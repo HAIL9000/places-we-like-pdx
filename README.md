@@ -1,2 +1,2 @@
 # places-we-like-pdx
-helping me and my wife remember where we like to eat
+when it comes time to get something to eat, we can never remember what we like, so we made this to serve as a reference of our favorite places in portland, or!
